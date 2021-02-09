@@ -1,0 +1,28 @@
+{
+  "News": [
+    {
+      "id": 2,
+      "headlines": "cursos",
+      "information": "cursos js",
+      "image": "imagen dos"
+    },
+    {
+      "id": 3,
+      "headlines": "estudios",
+      "information": "estudios adicionales",
+      "image": "imagen 3"
+    },
+    {
+      "id": 4,
+      "headlines": "carlos",
+      "information": "carlosjs",
+      "image": "imagen cuatro"
+    },
+    {
+      "id": 1,
+      "headlines": "carlos",
+      "information": "carlosjs",
+      "image": "imagen cuatro"
+    }
+  ]
+}
